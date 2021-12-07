@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Mário\Documents\ProjetoBTZ\btztransports\resources\views/supplies/show.blade.php ENDPATH**/ ?>
